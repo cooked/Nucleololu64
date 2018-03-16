@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Extra)(type KiCad)(uri "$(KIPRJMOD)/Footprints/Extra.pretty")(options "")(descr ""))
+  (lib (name logo)(type KiCad)(uri /Users/stefanocottafavi/kicad-library/kicad-library-master/modules/logo.pretty)(options "")(descr ""))
+)
